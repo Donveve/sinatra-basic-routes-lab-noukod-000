@@ -13,6 +13,9 @@ end
     "My hometown is pestel"
 end
   
+   get '/' do
+    "My hometown is pestel"
+end
   
   
   get('/name'){}
