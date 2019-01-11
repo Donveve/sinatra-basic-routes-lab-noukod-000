@@ -6,11 +6,11 @@ class App < Sinatra::Base
   end
   
   get '/name' do
-    "Hello, World!"
+    "My name is Veniel"
 end
   
   
-  get('/name'){"My name is Veniel"}
+  get('/name'){}
   get('/hometown'){"My hometown is pestel"}
   get('/favorite-song'){"My favorite song is kompa}
 "
