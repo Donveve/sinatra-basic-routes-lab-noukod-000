@@ -17,9 +17,4 @@ end
     "My favorite song is kompa
 end
   
-  
-  get('/name'){}
-  get('/hometown'){"My hometown is pestel"}
-  get('/favorite-song'){"My favorite song is kompa}
-"
 end
