@@ -13,7 +13,7 @@ end
     "My hometown is pestel"
 end
   
-   get '/' do
+   get '/favorite-song' do
     "My hometown is pestel"
 end
   
